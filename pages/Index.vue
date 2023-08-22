@@ -14,7 +14,7 @@
             <ul class="md:flex md:items-center">
                 <li class="mx-4 ">
                     <NuxtLink to="/index">
-                        <a href="#" class=" ">HOME</a>
+                        <a href="#" class=" border-b-4 border-red-500 mt-5">HOME</a>
                     </NuxtLink>
                 </li>
                 <li class="mx-4">
